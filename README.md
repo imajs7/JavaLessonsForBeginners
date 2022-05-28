@@ -1,8 +1,8 @@
 # JavaLessonsForBeginners
-### 1. [Core Java](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/corejava)
-### 2. [Data Structure](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/datastructure)
-### 3. [Algorithm](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/algorithm)
-### 4. [Practice Projects](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/practiceprojects)
+### 1. [Core Java](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/src/com/jsclasses/corejava)
+### 2. [Data Structure](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/src/com/jsclasses/datastructure)
+### 3. [Algorithm](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/src/com/jsclasses/algorithm)
+### 4. [Practice](https://github.com/imajs7/JavaLessonsForBeginners/tree/main/src/com/jsclasses/practice)
 
 ### Author
 
